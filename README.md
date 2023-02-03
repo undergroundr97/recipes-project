@@ -1,1 +1,1 @@
-I am doing a recipe list for my project
+I am doing a recipe list as my first HTML project.
